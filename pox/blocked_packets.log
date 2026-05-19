@@ -1,0 +1,145 @@
+2026-04-21 04:36:08,978 - ========== Controller Started ==========
+2026-04-21 04:36:08,979 - Firewall Launcher Ready - Waiting for switches...
+2026-04-21 04:36:08,994 - POX requires one of the following versions of Python: 3.6 3.7 3.8 3.9
+2026-04-21 04:36:08,994 - You're running Python 3.12.
+2026-04-21 04:36:08,994 - If you run into problems, try using a supported version.
+2026-04-21 04:36:08,994 - POX 0.7.0 (gar) is up.
+2026-04-21 04:36:10,006 - [00-00-00-00-00-01 1] connected
+2026-04-21 04:36:10,007 - Firewall connected to switch: [00-00-00-00-00-01 1]
+2026-04-21 04:36:10,007 - Switch connected
+2026-04-21 04:36:10,008 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-21 04:36:10,008 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-21 04:36:10,008 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-21 04:36:10,008 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-21 04:36:16,999 - Going down...
+2026-04-21 04:36:17,167 - [00-00-00-00-00-01 1] disconnected
+2026-04-21 04:36:17,168 - Down.
+2026-04-21 04:36:23,398 - ========== Controller Started ==========
+2026-04-21 04:36:23,399 - Firewall Launcher Ready - Waiting for switches...
+2026-04-21 04:36:23,413 - POX requires one of the following versions of Python: 3.6 3.7 3.8 3.9
+2026-04-21 04:36:23,414 - You're running Python 3.12.
+2026-04-21 04:36:23,414 - If you run into problems, try using a supported version.
+2026-04-21 04:36:23,414 - POX 0.7.0 (gar) is up.
+2026-04-21 04:36:25,203 - [00-00-00-00-00-01 1] connected
+2026-04-21 04:36:25,205 - Firewall connected to switch: [00-00-00-00-00-01 1]
+2026-04-21 04:36:25,207 - Switch connected
+2026-04-21 04:36:25,210 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-21 04:36:25,210 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-21 04:36:25,211 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-21 04:36:25,212 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-21 04:48:54,333 - Going down...
+2026-04-21 04:48:54,445 - [00-00-00-00-00-01 1] disconnected
+2026-04-21 04:48:54,446 - Down.
+2026-04-21 04:58:34,184 - ========== Controller Started ==========
+2026-04-21 04:58:34,184 - Firewall Launcher Ready - Waiting for switches...
+2026-04-21 04:58:34,195 - POX requires one of the following versions of Python: 3.6 3.7 3.8 3.9
+2026-04-21 04:58:34,196 - You're running Python 3.12.
+2026-04-21 04:58:34,196 - If you run into problems, try using a supported version.
+2026-04-21 04:58:34,197 - POX 0.7.0 (gar) is up.
+2026-04-21 04:58:36,340 - [00-00-00-00-00-01 1] connected
+2026-04-21 04:58:36,340 - Firewall connected to switch: [00-00-00-00-00-01 1]
+2026-04-21 04:58:36,341 - Switch connected
+2026-04-21 04:58:36,341 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-21 04:58:36,341 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-21 04:58:36,341 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-21 04:58:36,341 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-21 04:59:12,036 - [00-00-00-00-00-01 1] closed
+2026-04-21 04:59:28,816 - [00-00-00-00-00-01 3] connected
+2026-04-21 04:59:28,817 - Firewall connected to switch: [00-00-00-00-00-01 3]
+2026-04-21 04:59:28,817 - Switch connected
+2026-04-21 04:59:28,818 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-21 04:59:28,818 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-21 04:59:28,818 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-21 04:59:28,818 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-21 05:04:28,502 - Going down...
+2026-04-21 05:04:28,637 - [00-00-00-00-00-01 3] disconnected
+2026-04-21 05:04:28,641 - Down.
+2026-04-21 05:27:43,873 - ========== Controller Started ==========
+2026-04-21 05:27:43,874 - Firewall Launcher Ready - Waiting for switches...
+2026-04-21 05:27:43,890 - POX requires one of the following versions of Python: 3.6 3.7 3.8 3.9
+2026-04-21 05:27:43,891 - You're running Python 3.12.
+2026-04-21 05:27:43,891 - If you run into problems, try using a supported version.
+2026-04-21 05:27:43,891 - POX 0.7.0 (gar) is up.
+2026-04-21 05:27:45,739 - [00-00-00-00-00-01 1] connected
+2026-04-21 05:27:45,740 - Firewall connected to switch: [00-00-00-00-00-01 1]
+2026-04-21 05:27:45,741 - Switch connected
+2026-04-21 05:27:45,742 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-21 05:27:45,742 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-21 05:27:45,742 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-21 05:27:45,742 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-21 05:28:03,258 - [00-00-00-00-00-01 1] closed
+2026-04-21 05:28:18,983 - [00-00-00-00-00-01 3] connected
+2026-04-21 05:28:18,989 - Firewall connected to switch: [00-00-00-00-00-01 3]
+2026-04-21 05:28:18,989 - Switch connected
+2026-04-21 05:28:18,991 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-21 05:28:18,991 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-21 05:28:18,991 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-21 05:28:18,991 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-23 03:35:48,706 - ========== Controller Started ==========
+2026-04-23 03:35:48,708 - Firewall Launcher Ready - Waiting for switches...
+2026-04-23 03:35:48,852 - Support for Python 3 is experimental.
+2026-04-23 03:35:48,854 - POX 0.7.0 (gar) is up.
+2026-04-23 03:36:59,737 - [00-00-00-00-00-01 2] connected
+2026-04-23 03:36:59,755 - Firewall connected to switch: [00-00-00-00-00-01 2]
+2026-04-23 03:36:59,765 - Switch connected
+2026-04-23 03:36:59,765 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-23 03:36:59,767 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-23 03:36:59,771 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-23 03:36:59,774 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-23 03:39:55,444 - Going down...
+2026-04-23 03:39:55,644 - [00-00-00-00-00-01 2] disconnected
+2026-04-23 03:39:55,645 - Down.
+2026-04-23 05:01:11,120 - ========== Controller Started ==========
+2026-04-23 05:01:11,121 - Firewall Launcher Ready - Waiting for switches...
+2026-04-23 05:01:11,139 - Support for Python 3 is experimental.
+2026-04-23 05:01:11,140 - POX 0.7.0 (gar) is up.
+2026-04-23 05:02:03,528 - ========== Controller Started ==========
+2026-04-23 05:02:03,542 - Firewall Launcher Ready - Waiting for switches...
+2026-04-23 05:02:03,569 - Support for Python 3 is experimental.
+2026-04-23 05:02:03,570 - POX 0.7.0 (gar) is up.
+2026-04-23 05:02:03,571 - Error 98 while binding 0.0.0.0:6633: Address already in use
+2026-04-23 05:02:03,571 -  You may have another controller running.
+2026-04-23 05:02:03,571 -  Use openflow.of_01 --port=<port> to run POX on another port.
+2026-04-23 05:03:52,270 - [00-00-00-00-00-01 2] connected
+2026-04-23 05:03:52,271 - Firewall connected to switch: [00-00-00-00-00-01 2]
+2026-04-23 05:03:52,271 - Switch connected
+2026-04-23 05:03:52,272 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-23 05:03:52,273 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-23 05:03:52,274 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-23 05:03:52,274 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-23 05:29:35,274 - Going down...
+2026-04-23 05:29:35,394 - [00-00-00-00-00-01 2] disconnected
+2026-04-23 05:29:35,397 - Down.
+2026-04-23 05:30:35,944 - ========== Controller Started ==========
+2026-04-23 05:30:35,945 - Firewall Launcher Ready - Waiting for switches...
+2026-04-23 05:30:35,975 - Support for Python 3 is experimental.
+2026-04-23 05:30:35,976 - POX 0.7.0 (gar) is up.
+2026-04-23 05:30:36,844 - [00-00-00-00-00-01 1] connected
+2026-04-23 05:30:36,848 - Firewall connected to switch: [00-00-00-00-00-01 1]
+2026-04-23 05:30:36,848 - Switch connected
+2026-04-23 05:30:36,850 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-23 05:30:36,850 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-23 05:30:36,851 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-23 05:30:36,851 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-23 05:30:47,509 - [00-00-00-00-00-01 1] closed
+2026-04-23 05:32:46,305 - [00-00-00-00-00-01 4] connected
+2026-04-23 05:32:46,310 - Firewall connected to switch: [00-00-00-00-00-01 4]
+2026-04-23 05:32:46,310 - Switch connected
+2026-04-23 05:32:46,311 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-23 05:32:46,311 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-23 05:32:46,312 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-23 05:32:46,312 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-23 05:32:49,195 - Going down...
+2026-04-23 05:32:49,318 - [00-00-00-00-00-01 4] disconnected
+2026-04-23 05:32:49,319 - Down.
+2026-04-23 05:33:02,659 - ========== Controller Started ==========
+2026-04-23 05:33:02,660 - Firewall Launcher Ready - Waiting for switches...
+2026-04-23 05:33:02,689 - Support for Python 3 is experimental.
+2026-04-23 05:33:02,690 - POX 0.7.0 (gar) is up.
+2026-04-23 05:33:03,541 - [00-00-00-00-00-01 1] connected
+2026-04-23 05:33:03,544 - Firewall connected to switch: [00-00-00-00-00-01 1]
+2026-04-23 05:33:03,545 - Switch connected
+2026-04-23 05:33:03,546 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-23 05:33:03,547 - [DROP RULE INSTALLED] 10.0.0.1 -> 10.0.0.3 (icmp)
+2026-04-23 05:33:03,547 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
+2026-04-23 05:33:03,548 - [DROP RULE INSTALLED] 10.0.0.2 -> 10.0.0.3 (tcp)
